@@ -1,14 +1,12 @@
 ![Gustavo Mello's - Declassified - Programming Survival Guide](https://raw.githubusercontent.com/MographlloCode/MographlloCode/main/images/survivalguide.png)![Futuristic Gus](https://raw.githubusercontent.com/MographlloCode/MographlloCode/main/images/colante.png)
 
 
-### 🔮 Hello there! I'm a Fullstack Engineer and former Graphic Artist with a passion for the captivating realms of Artificial Intelligence and Machine Learning. 
+### 🔮 Hey, welcome!
 
-I'm on an exciting journey toward a career that revolves around crafting groundbreaking solutions by harmonizing the worlds of Bio and Technology.  
-
-I hope to contribute more to the community for the next year, so if you want to create something together, DM me!  
-  
-🖌️ Graphic Artist for +6 years turned Fullstack Engineer  
-👀 Fun fact → I enjoy cooking and I ***LOVE*** to play Survival Games
+I'm Gustavo Mello, also known as Mographllo, a software developer with extensive experience in both system development and audiovisual production.
+I have led and developed projects using technologies such as Python, Django, and React JS. My work ranges from architecture to the implementation of tech solutions, always focusing on optimization and security.
+Moreover, I have a strong background in graphic design and media production, using tools from the Adobe Suite and Blender to create visual identities and interactive content that enhance digital engagement.
+I'm open to new opportunities, so if you have a spot for me in your next project, send me a message through one of the contact methods, and let's talk!
 
 ---
 
