@@ -9,13 +9,35 @@
 <p>I'm open to new opportunities, so if you have a spot for me in your next project, send me a message through one of the contact methods, and let's talk!</p>
 
 ---
-
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54)
+![flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=ffdd54)
+![javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![node.js](https://img.shields.io/badge/node.js-3670A0?style=for-the-badge&logo=node.js&logoColor=ffdd54)
+![next.js](https://img.shields.io/badge/next.js-3670A0?style=for-the-badge&logo=next.js&logoColor=ffdd54)
+![react](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54)
+![aws](https://img.shields.io/badge/aws-3670A0?style=for-the-badge&logo=amazonaws&logoColor=ffdd54)
+![docker](https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=docker&logoColor=ffdd54)
+![html5](https://img.shields.io/badge/html5-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54)
+![css3](https://img.shields.io/badge/css3-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54) 
+![tailwindcss](https://img.shields.io/badge/tailwindcss-3670A0?style=for-the-badge&logo=tailwindcss&logoColor=ffdd54) 
+![bootstrap](https://img.shields.io/badge/bootstrap-3670A0?style=for-the-badge&logo=bootstrap&logoColor=ffdd54) 
+
+### Tools
+
+![figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=ffdd54)
+![adobephotoshop](https://img.shields.io/badge/photoshop-3670A0?style=for-the-badge&logo=adobephotoshop&logoColor=ffdd54)
+![adobeillustrator](https://img.shields.io/badge/illustrator-3670A0?style=for-the-badge&logo=adobeillustrator&logoColor=ffdd54)
+![adobeaftereffects](https://img.shields.io/badge/after_effects-3670A0?style=for-the-badge&logo=adobeaftereffects&logoColor=ffdd54)
+![adobexd](https://img.shields.io/badge/adobe_xd-3670A0?style=for-the-badge&logo=adobexd&logoColor=ffdd54)
+![adobepremierepro](https://img.shields.io/badge/premiere_pro-3670A0?style=for-the-badge&logo=adobepremierepro&logoColor=ffdd54)
+![blender](https://img.shields.io/badge/blender-3670A0?style=for-the-badge&logo=blender&logoColor=ffdd54)
+
 
 ![MographlloCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOgraphlloCode&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mographllo)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmellocontact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mographllo)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gmello.tech)
