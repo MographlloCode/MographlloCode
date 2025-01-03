@@ -3,10 +3,7 @@
 
 ### 🔮 Hey, welcome!
 
-<p>I'm Gustavo Mello, also known as Mographllo, a software developer with extensive experience in both system development and audiovisual production.</p>
-<p>I have led and developed projects using technologies such as Python, Django, and React JS. My work ranges from architecture to the implementation of tech solutions, always focusing on optimization and security.</p>
-<p>Moreover, I have a strong background in graphic design and media production, using tools from the Adobe Suite and Blender to create visual identities and interactive content that enhance digital engagement.</p>
-<p>I'm open to new opportunities, so if you have a spot for me in your next project, send me a message through one of the contact methods, and let's talk!</p>
+<p>Building my skills for 2025!</p>
 
 ---
 ### Tech Stack
