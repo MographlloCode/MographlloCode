@@ -3,8 +3,6 @@
 
 ### 🔮 Hey, welcome!
 
-<p>Building my skills for 2025!</p>
-
 ---
 ### Tech Stack
 
